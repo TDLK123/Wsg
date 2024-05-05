@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "B\u00e1nh m\u1ef3 k\u1eb9p th\u1ecbt",
+        "description": "M\u1ed9t lo\u1ea1i b\u00e1nh m\u1ef3 k\u1eb9p th\u1ecbt ngon l\u00e0nh",
+        "price": "5.99",
+        "ingredients": "B\u00e1nh m\u1ef3, Th\u1ecbt, Rau s\u1ed1ng, S\u1ed1t",
+        "rating": 4.7,
+        "category": "M\u00f3n ch\u00ednh",
+        "image": "C:/Users/dell/Downloads/PTI_CK (2)/image/2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "S\u00fap h\u00e0nh",
+        "description": "S\u00fap h\u00e0nh th\u01a1m ngon",
+        "price": 3.99,
+        "ingredients": "H\u00e0nh, Gia v\u1ecb, N\u01b0\u1edbc",
+        "rating": 4.2,
+        "category": "M\u00f3n ch\u00ednh",
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "B\u00e1nh tr\u00e1ng tr\u1ed9n",
+        "description": "B\u00e1nh tr\u00e1ng tr\u1ed9n v\u1edbi c\u00e1c lo\u1ea1i gia v\u1ecb",
+        "price": 2.5,
+        "ingredients": "B\u00e1nh tr\u00e1ng, Rau s\u1ed1ng, T\u01b0\u01a1ng, \u0110\u1eadu ph\u1ed9ng",
+        "rating": 4.7,
+        "category": "M\u00f3n ph\u1ee5",
+        "image": "image/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ch\u00e8 \u0111\u1eadu xanh",
+        "description": "Ch\u00e8 \u0111\u1eadu xanh ng\u1ecdt ng\u00e0o",
+        "price": 4.5,
+        "ingredients": "\u0110\u1eadu xanh, \u0110\u01b0\u1eddng, N\u01b0\u1edbc",
+        "rating": 4.1,
+        "category": "M\u00f3n tr\u00e1ng mi\u1ec7ng",
+        "image": "image/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "G\u00e0 n\u01b0\u1edbng m\u1eadt ong",
+        "description": "G\u00e0 n\u01b0\u1edbng v\u1edbi m\u1eadt ong th\u01a1m ngon",
+        "price": 8.99,
+        "ingredients": "G\u00e0, M\u1eadt ong, Gia v\u1ecb",
+        "rating": 4.8,
+        "category": "M\u00f3n ch\u00ednh",
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Salad c\u00e1 ng\u1eeb",
+        "description": "Salad c\u00e1 ng\u1eeb t\u01b0\u01a1i m\u00e1t",
+        "price": 7.5,
+        "ingredients": "C\u00e1 ng\u1eeb, Rau s\u1ed1ng, S\u1ed1t, H\u00e0nh, T\u1ecfi",
+        "rating": 4.4,
+        "category": "M\u00f3n ch\u00ednh",
+        "image": "image/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "C\u01a1m g\u00e0 x\u1ed1i m\u1ee1",
+        "description": "C\u01a1m g\u00e0 x\u1ed1i m\u1ee1 th\u01a1m ngon",
+        "price": 6.5,
+        "ingredients": "G\u00e0, C\u01a1m, X\u1ed1i m\u1ee1, Rau s\u1ed1ng",
+        "rating": 4.6,
+        "category": "M\u00f3n ch\u00ednh",
+        "image": "image/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "B\u00fan ch\u1ea3 H\u00e0 N\u1ed9i",
+        "description": "B\u00fan ch\u1ea3 H\u00e0 N\u1ed9i th\u01a1m ngon",
+        "price": 5.5,
+        "ingredients": "Th\u1ecbt heo, B\u00fan, N\u01b0\u1edbc m\u1eafm, Rau s\u1ed1ng",
+        "rating": 4.9,
+        "category": "M\u00f3n ch\u00ednh",
+        "image": "image/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nem cu\u1ed1n",
+        "description": "Nem cu\u1ed1n t\u01b0\u01a1i m\u00e1t",
+        "price": 3.5,
+        "ingredients": "B\u00e1nh tr\u00e1ng, Th\u1ecbt heo, Rau s\u1ed1ng, T\u01b0\u01a1ng",
+        "rating": 4.3,
+        "category": "M\u00f3n ph\u1ee5",
+        "image": "image/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "B\u00e1nh flan",
+        "description": "B\u00e1nh flan m\u1ec1m m\u1ecbn",
+        "price": 4.0,
+        "ingredients": "Tr\u1ee9ng, \u0110\u01b0\u1eddng, S\u1eefa",
+        "rating": 4.7,
+        "category": "M\u00f3n tr\u00e1ng mi\u1ec7ng",
+        "image": "image/10.jpg"
+    }
+]
